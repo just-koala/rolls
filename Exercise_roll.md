@@ -1,8 +1,8 @@
-Circle the UQ Great Court
+###### Circle the UQ Great Court
 
 It's 636m. It takes 10-minute normal speed walk to finish one circle. I go clockwisely. I found it helpful to clear the mess out of my mind.
 
-Table
+
 | #    | Date        |
 | --   | ----------- |
 | 1st  | 28-05-2025  |
