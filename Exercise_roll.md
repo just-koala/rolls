@@ -9,3 +9,4 @@ It's 636m. It takes 10-minute normal speed walk to finish one circle. I go clock
 | 2nd  | 01-06-2025  |
 | 3rd  | 04-06-2025  |
 | 4th  | 05-06-2025  |
+| 5th  | 06-06-2025  |
